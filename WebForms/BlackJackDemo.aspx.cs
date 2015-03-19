@@ -11,4 +11,8 @@ public partial class WebForms_BlackJackDemo : System.Web.UI.Page
     {
 
     }
+    protected void btnHit_Click(object sender, EventArgs e)
+    {
+
+    }
 }
