@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/BlackJackWebsite.master" AutoEventWireup="true" CodeFile="AboutTheTeam.aspx.cs" Inherits="WebForms_AboutTheTeam" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/BlackJackWebsite.master" AutoEventWireup="true" CodeFile="AboutTheGame.aspx.cs" Inherits="WebForms_AboutTheGame" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
