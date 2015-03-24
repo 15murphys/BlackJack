@@ -12,9 +12,9 @@
     
         <br />
         <br />
-        <asp:Image ID="DealerCard1" runat="server" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Image ID="DealerCard2" runat="server" style="margin-top: 1px" />
+&nbsp;<asp:Image ID="DealerCard1" runat="server" Height="309px" ImageUrl="~/Images/Playing Cards/Cards/4OfHearts.jpg" Width="222px" />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:Image ID="DealerCard2" runat="server" style="margin-top: 1px" Height="271px" ImageUrl="~/Images/BackOfCard.jpg" Width="199px" />
 &nbsp;
         <br />
         <br />
