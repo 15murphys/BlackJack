@@ -10,6 +10,12 @@
         .auto-style1 {
             font-size: x-large;
         }
+        .auto-style2 {
+            font-size: xx-large;
+        }
+        .auto-style3 {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
@@ -20,15 +26,15 @@
         &nbsp;</p>
     <p style="margin-left: 800px">
         &nbsp;</p>
-    <p style="margin-left: 800px">
-        &nbsp;</p>
+    <p style="margin-left: 800px" class="auto-style2">
+        &nbsp;&nbsp;&nbsp;&nbsp; <strong>&nbsp; <span class="auto-style3">Previous Games</span>:</strong></p>
     <p style="margin-left: 800px">
         &nbsp;</p>
     <form id="form1" runat="server">
         <p style="margin-left: 920px">
             &nbsp;</p>
-        <p class="auto-style1" style="margin-left: 920px">
-            Previous Games:</p>
+        <p style="margin-left: 920px">
+            &nbsp;</p>
         <p class="auto-style1" style="margin-left: 920px">
             Half Life (1998)</p>
         <p class="auto-style1" style="margin-left: 920px">
